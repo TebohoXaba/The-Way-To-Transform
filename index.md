@@ -37,8 +37,6 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 
-</div>
-
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my repositories and projects!*  
