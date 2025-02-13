@@ -1,34 +1,24 @@
-title: Teboho Xaba
-subtitle: Python Developer | Data Analytics | Automation | Machine Learning
-name: Teboho Xaba
-email: your.email@example.com
-description: >-
-  Passionate Python developer with a background in Logistics and Supply Chain Management. Specializing in Data Analytics, Automation, and Machine Learning.
-baseurl: ""
-url: "https://yourgithubusername.github.io"
-theme: minimal-mistakes-jekyll
+# My Online Resume
 
-# Navigation
-nav:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
+# Python Developer | Data Analytics | Automation | Machine Learning
 
-# Social Links
-social:
-  - title: "LinkedIn"
-    url: "https://linkedin.com/in/yourname"
-  - title: "GitHub"
-    url: "https://github.com/yourusername"
-  - title: "YouTube"
-    url: "https://www.youtube.com/@Real_Nonkosi"
+# Name: Teboho Xaba
+# Email: tebohobongaxaba@gmail.com
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# About Me
+
+Hi there! 👋
+I'm Teboho Xaba, a Python developer passionate about data analytics, automation, and machine learning.
+
+I have a background in Logistics and Supply Chain Management, specializing in Road Transport. My goal is to leverage technology to drive efficiency and innovation in this space.
+
+If you're interested in collaborating or learning more about my work, feel free to explore my projects or get in touch!
+
+## Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
+## Get In Touch!
+- [LinkedIn](https://linkedin.com/in/yourname)
+- [GitHub](https://github.com/yourusername)
+- [YouTube](https://www.youtube.com/@Real_Nonkosi)
