@@ -27,6 +27,20 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
 
 ---
 
+<div id="video-container">
+  <iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<button onclick="changeVideo('VIDEO_ID_1')">Video 1</button>
+<button onclick="changeVideo('VIDEO_ID_2')">Video 2</button>
+<button onclick="changeVideo('VIDEO_ID_3')">Video 3</button>
+
+<script>
+  function changeVideo(videoId) {
+    document.getElementById('youtube-video').src = "https://www.youtube.com/embed/" + videoId;
+  }
+</script>
+
 ## 📬 Get In Touch  
 
 💼 Let’s connect! Click below to reach out:
