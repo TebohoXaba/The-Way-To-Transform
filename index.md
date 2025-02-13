@@ -30,12 +30,11 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
 ## My YouTube Channel: The way to Transform 
 
 <div id="video-container">
-  <iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+  <iframe id="youtube-video" width="560" height="315" src="https://youtu.be/9L8d_gwc7YQ?si=9p2celORw-HNbyd8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<button onclick="changeVideo('VIDEO_ID_1')">Video 1</button>
-<button onclick="changeVideo('VIDEO_ID_2')">Video 2</button>
-<button onclick="changeVideo('VIDEO_ID_3')">Video 3</button>
+<button onclick="changeVideo('https://youtu.be/9L8d_gwc7YQ?si=9p2celORw-HNbyd8')">Creating data on MS Excel</button>
+<button onclick="changeVideo('https://youtu.be/LWBLDtV5YGk?si=DzxV6_AYntfdVfgP')">Coming Soon</button>
 
 <script>
   function changeVideo(videoId) {
