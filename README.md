@@ -19,7 +19,7 @@ If you're interested in collaborating or learning more about my work, feel free 
 - [LinkedIn](https://www.linkedin.com/in/teboho-xaba-a142b617b/)
 - [GitHub](https://github.com/TebohoXaba)
 - [YouTube](https://www.youtube.com/@Real_Nonkosi)
-- [Gmail](tebohobongaxaba@gmail.com)
+- [Gmail](mailto:your.email@example.com)
 
 <a href="mailto:tebohobongaxaba@gmail.com">
     <button>Email Me</button>
