@@ -19,6 +19,6 @@ If you're interested in collaborating or learning more about my work, feel free 
 - [Project 2](https://github.com/yourusername/project2)
 
 ## Get In Touch!
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/teboho-xaba-a142b617b/)
+- [GitHub](https://tebohoxaba.github.io/My-Profile/))
 - [YouTube](https://www.youtube.com/@Real_Nonkosi)
