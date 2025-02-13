@@ -21,8 +21,8 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
 ## 🚀 Featured Projects  
 🛠️ Explore some of my latest projects:
 
-- 🔗 **[Z X Fleet](https://zxfleet.co.za)** - Logistics and Fleet Management System  
-- 🏭 **[GCS Warehouse](https://zxfleet.co.za/api/pages)** - Smart Warehouse Management API  
+- 🔗 **[Z X Fleet](https://zxfleet.co.za)** - 3P - Road Frieght Logistics Partner site
+- 🏭 **[GCS Warehouse](https://zxfleet.co.za/api/pages)** - Smart Home Inprovements E-Commerce site
 - 📖 **[Dear Diary](#)** - Personal journal & AI insights (*Coming Soon!*)  
 
 ---
