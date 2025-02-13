@@ -13,7 +13,7 @@ If you're interested in collaborating or learning more about my work, feel free 
 
 ## Projects
 - [Z X Fleet](https://zxfleet.co.za)
-- [GCS Warehouse](https://github.com/yourusername/project2)
+- [GCS Warehouse](https://zxfleet.co.za/api/pages)
 - [Dear Diary]()
 
 ## Get In Touch!
