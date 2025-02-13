@@ -33,8 +33,8 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
   <iframe id="youtube-video" width="560" height="315" src="https://youtu.be/9L8d_gwc7YQ?si=9p2celORw-HNbyd8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<button onclick="changeVideo('https://youtu.be/9L8d_gwc7YQ?si=9p2celORw-HNbyd8')">Creating data on MS Excel</button>
-<button onclick="changeVideo('https://youtu.be/LWBLDtV5YGk?si=DzxV6_AYntfdVfgP')">Coming Soon</button>
+<button onclick="changeVideo('9L8d_gwc7YQ?si=9p2celORw-HNbyd8')">Creating data on MS Excel</button>
+<button onclick="changeVideo('LWBLDtV5YGk?si=DzxV6_AYntfdVfgP')">Coming Soon</button>
 
 <script>
   function changeVideo(videoId) {
