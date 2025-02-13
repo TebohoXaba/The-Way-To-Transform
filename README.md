@@ -12,7 +12,7 @@ I have a background in Logistics and Supply Chain Management, specializing in Ro
 If you're interested in collaborating or learning more about my work, feel free to explore my projects or get in touch!
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1)
+- [Z X Fleet](https://zxfleet.co.za)
 - [Project 2](https://github.com/yourusername/project2)
 
 ## Get In Touch!
@@ -20,7 +20,3 @@ If you're interested in collaborating or learning more about my work, feel free 
 - [GitHub](https://github.com/TebohoXaba)
 - [YouTube](https://www.youtube.com/@Real_Nonkosi)
 - [Gmail](mailto:your.email@example.com)
-
-<a href="mailto:tebohobongaxaba@gmail.com">
-    <button>Email Me</button>
-</a>
