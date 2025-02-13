@@ -31,7 +31,7 @@ With a background in **Logistics and Supply Chain Management**, specializing in 
 
 💼 Let’s connect! Click below to reach out:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teboho-xaba-a142b617b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TebohoXaba)  
