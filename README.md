@@ -1,11 +1,8 @@
-# My Online Resume
+# Teboho Xaba the Programmer
 
-# Python Developer | Data Analytics | Automation | Machine Learning
+## Python Developer | Data Analytics | Automation | Machine Learning
 
-# Name: Teboho Xaba
-# Email: tebohobongaxaba@gmail.com
-
-# About Me
+## About Me
 
 Hi there! 👋
 I'm Teboho Xaba, a Python developer passionate about data analytics, automation, and machine learning.
@@ -22,3 +19,4 @@ If you're interested in collaborating or learning more about my work, feel free 
 - [LinkedIn](https://www.linkedin.com/in/teboho-xaba-a142b617b/)
 - [GitHub](https://tebohoxaba.github.io/My-Profile/))
 - [YouTube](https://www.youtube.com/@Real_Nonkosi)
+- [Gmail](tebohobongaxaba@gmail.com)
