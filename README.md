@@ -17,6 +17,6 @@ If you're interested in collaborating or learning more about my work, feel free 
 
 ## Get In Touch!
 - [LinkedIn](https://www.linkedin.com/in/teboho-xaba-a142b617b/)
-- [GitHub](https://tebohoxaba.github.io/My-Profile/)
+- [GitHub](https://github.com/TebohoXa)
 - [YouTube](https://www.youtube.com/@Real_Nonkosi)
 - [Gmail](tebohobongaxaba@gmail.com)
