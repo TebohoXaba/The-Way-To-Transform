@@ -13,7 +13,8 @@ If you're interested in collaborating or learning more about my work, feel free 
 
 ## Projects
 - [Z X Fleet](https://zxfleet.co.za)
-- [Project 2](https://github.com/yourusername/project2)
+- [GCS Warehouse](https://github.com/yourusername/project2)
+- [Dear Diary]()
 
 ## Get In Touch!
 - [LinkedIn](https://www.linkedin.com/in/teboho-xaba-a142b617b/)
