@@ -12,4 +12,4 @@ If you're interested in collobarting of learning more about me, feel free to hav
 - [Project 2](https://github.com/yourusername/project2)
 
 ## Get In Touch!
-- [LinkedIn](https://linkedin.com/in/yourname) - [GitHub](https://github.com/yourusername) - [YouTube]([https://github.com/yourusername](https://www.youtube.com/@Real_Nonkosi))
+- [LinkedIn](https://linkedin.com/in/yourname) - [GitHub](https://github.com/yourusername) - [YouTube](https://www.youtube.com/@Real_Nonkosi)
