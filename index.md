@@ -25,21 +25,20 @@
             border-radius: 10px;
         }
         .profile-img {
-            width: 150px; /* Set width */
+            width: 150px;
             height: auto; /* Maintain aspect ratio */
-            border-radius: 50%; /* Keep circular shape */
+            border-radius: 50%;
             margin-top: 20px;
             border: 3px solid white;
-            object-fit: cover; /* Ensure it crops properly instead of stretching */
+            object-fit: cover;
         }
-
         a {
             color: #90ee90;
         }
     </style>
 </head>
 <body>
-    <img src="(https://photos.app.goo.gl/z71WUYMGEPWZnKYLA)" alt="Teboho Xaba" class="profile-img">
+    <img src="/mnt/data/your-profile-image.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Programmer</h1>
         <h3>Python Developer | Data Analytics | Automation | Machine Learning</h3>
