@@ -13,7 +13,7 @@
             padding: 0;
         }
         .header {
-            background: url('/mnt/data/A_road_transport_scene_showcasing_a_fleet_of_moder.png') no-repeat center center;
+            background: url('(https://photos.app.goo.gl/ryRuQ7HjtLDeaBnk7)') no-repeat center center;
             background-size: cover;
             padding: 100px 20px;
         }
@@ -25,7 +25,7 @@
             border-radius: 10px;
         }
         .profile-img {
-            width: 150px;
+            width: auto;
             height: auto; /* Maintain aspect ratio */
             border-radius: 50%;
             margin-top: 20px;
