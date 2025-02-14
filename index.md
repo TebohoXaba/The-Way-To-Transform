@@ -25,12 +25,14 @@
             border-radius: 10px;
         }
         .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
+            width: 150px; /* Set width */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 50%; /* Keep circular shape */
             margin-top: 20px;
             border: 3px solid white;
+            object-fit: cover; /* Ensure it crops properly instead of stretching */
         }
+
         a {
             color: #90ee90;
         }
