@@ -24,12 +24,20 @@
             padding: 20px;
             border-radius: 10px;
         }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-top: 20px;
+            border: 3px solid white;
+        }
         a {
             color: #90ee90;
         }
     </style>
 </head>
 <body>
+    <img src="/mnt/data/your-profile-image.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Programmer</h1>
         <h3>Python Developer | Data Analytics | Automation | Machine Learning</h3>
