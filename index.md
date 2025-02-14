@@ -37,7 +37,7 @@
     </style>
 </head>
 <body>
-    <img src="/mnt/data/your-profile-image.jpg" alt="Teboho Xaba" class="profile-img">
+    <img src="(https://photos.app.goo.gl/z71WUYMGEPWZnKYLA)" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Programmer</h1>
         <h3>Python Developer | Data Analytics | Automation | Machine Learning</h3>
