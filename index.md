@@ -56,7 +56,7 @@
         </ul>
         <h2>My YouTube Channel: The way to Transform</h2>
         <div id="video-container">
-            <iframe id="youtube-video" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+            <iframe id="youtube-video" width="auto" height="auto" src="" frameborder="0" allowfullscreen></iframe>
         </div>
         <button onclick="changeVideo('LWBLDtV5YGk?si=DzxV6_AYntfdVfgP')">Why Subscribe</button>
         <button onclick="changeVideo('9L8d_gwc7YQ?si=9p2celORw-HNbyd8')">Creating data on MS Excel</button>
