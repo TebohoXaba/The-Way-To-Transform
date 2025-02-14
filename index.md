@@ -18,7 +18,7 @@
             padding: 100px 20px;
         }
         .content {
-            max-width: 800px;
+            max-width: auto;
             margin: auto;
             background: rgba(0, 0, 0, 0.6);
             padding: 20px;
