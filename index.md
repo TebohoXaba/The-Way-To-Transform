@@ -51,7 +51,7 @@
         <h2>🚀 Featured Projects</h2>
         <ul>
             <li><a href="https://zxfleet.co.za">Z X Fleet</a> - 3P - Road Freight Logistics Partner site</li>
-            <li><a href="https://zxfleet.co.za/api/pages">GCS Warehouse</a> - Smart Home Improvements E-Commerce site</li>
+            <li><a href="https://https://gcswarehouse.co.za">GCS Warehouse</a> - Smart Home Improvements E-Commerce site</li>
             <li><a href="#">Dear Diary</a> - Personal journal & AI insights App (*Coming Soon!*)</li>
         </ul>
         <h2>My YouTube Channel: The way to Transform</h2>
