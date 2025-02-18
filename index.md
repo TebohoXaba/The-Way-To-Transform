@@ -13,7 +13,7 @@
             padding: 0;
         }
         .header {
-            background: url('https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg') no-repeat center center;
+            background: url('https://raw.githubusercontent.com/TebohoXaba/My-Profile/blob/main/.github/Theme.webp') no-repeat center center;
             background-size: cover;
             padding: 100px 20px;
         }
