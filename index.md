@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Value Chain Programmer</h1>
-        <h3>Python Developer | Data Analytics | Automation | Machine Learning | Supply Chain | Logistics</h3>
+        <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
     </div>
     <div class="content">
         <h2>About Me</h2>
