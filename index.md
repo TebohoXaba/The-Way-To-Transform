@@ -13,7 +13,7 @@
             padding: 0;
         }
         .header {
-            background: url 'https://github.com/TebohoXaba/My-Profile/.github/Title,jpg' no-repeat center center;
+            background: url('https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg') no-repeat center center;
             background-size: cover;
             padding: 100px 20px;
         }
@@ -38,7 +38,7 @@
     </style>
 </head>
 <body>
-    <img src="https://github.com/TebohoXaba/My-Profile/blob/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
+    <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Programmer</h1>
         <h3>Python Developer | Data Analytics | Automation | Machine Learning</h3>
