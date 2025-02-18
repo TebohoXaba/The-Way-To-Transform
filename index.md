@@ -38,7 +38,7 @@
     </style>
 </head>
 <body>
-    <img src="(https://github.com/TebohoXaba/My-Profile/blob/main/.github/Title.jpg)" alt="Teboho Xaba" class="profile-img">
+    <img src="https://github.com/TebohoXaba/My-Profile/blob/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
         <h1>🚀 Teboho Xaba the Programmer</h1>
         <h3>Python Developer | Data Analytics | Automation | Machine Learning</h3>
