@@ -161,5 +161,11 @@
             <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
         </div>
     </div>
+    <div class="content" id="about">
+        <h2>About Me</h2>
+        <p>👋 Hi there! I'm <strong>Teboho Xaba</strong>, a Python developer passionate about <strong>data analytics, automation, and machine learning</strong>.</p>
+        <p>With a background in <strong>Logistics and Supply Chain Management</strong>, specializing in <strong>Road Transport</strong>, I strive to leverage <strong>technology for efficiency and innovation</strong>.</p>
+        <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
+    </div>
 </body>
 </html>
