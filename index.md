@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,18 +16,18 @@
         .header {
             background: url('https://raw.githubusercontent.com/TebohoXaba/My-Profile/blob/main/.github/Theme.webp') no-repeat center center;
             background-size: cover;
-            padding: 100px 20px;
+            padding: 80px 20px;
         }
         .content {
-            max-width: auto;
-            margin: auto;
-            background: rgba(0, 0, 0, 0.6);
+            max-width: 800px;
+            margin: 20px auto;
+            background: rgba(0, 0, 0, 0.7);
             padding: 20px;
             border-radius: 10px;
         }
         .profile-img {
-            width: auto;
-            height: auto; /* Maintain aspect ratio */
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
             margin-top: 20px;
             border: 3px solid white;
@@ -34,13 +35,40 @@
         }
         a {
             color: #90ee90;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .video-container {
+            margin: 20px auto;
+            width: 100%;
+            max-width: 560px;
+        }
+        iframe {
+            width: 100%;
+            height: 315px;
+            border-radius: 10px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #1b3c73;
         }
     </style>
 </head>
 <body>
     <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
     <div class="header">
-        <h1>🚀 Teboho Xaba the Value Chain Programmer</h1>
+        <h1>🚀 Teboho Xaba - The Value Chain Programmer</h1>
         <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
     </div>
     <div class="content">
@@ -48,23 +76,27 @@
         <p>👋 Hi there! I'm <strong>Teboho Xaba</strong>, a Python developer passionate about <strong>data analytics, automation, and machine learning</strong>.</p>
         <p>With a background in <strong>Logistics and Supply Chain Management</strong>, specializing in <strong>Road Transport</strong>, I strive to leverage <strong>technology for efficiency and innovation</strong>.</p>
         <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
+        
         <h2>🚀 Featured Projects</h2>
         <ul>
             <li><a href="https://zxfleet.co.za">Z X Fleet</a> - 3P - Road Freight Logistics Partner site</li>
             <li><a href="https://gcswarehouse.co.za">GCS Warehouse</a> - Smart Home Improvements E-Commerce site</li>
             <li><a href="#">Dear Diary</a> - Personal journal & AI insights App (*Coming Soon!*)</li>
         </ul>
-        <h2>My YouTube Channel: The way to Transform</h2>
-        <div id="video-container">
-            <iframe id="youtube-video" width="auto" height="auto" src="" frameborder="0" allowfullscreen></iframe>
+        
+        <h2>🎥 My YouTube Channel: The Way to Transform</h2>
+        <div class="video-container">
+            <iframe id="youtube-video" src="https://www.youtube.com/embed/LWBLDtV5YGk" frameborder="0" allowfullscreen></iframe>
         </div>
-        <button onclick="changeVideo('LWBLDtV5YGk?si=DzxV6_AYntfdVfgP')">Why Subscribe</button>
-        <button onclick="changeVideo('9L8d_gwc7YQ?si=9p2celORw-HNbyd8')">Creating data on MS Excel</button>
+        <button onclick="changeVideo('LWBLDtV5YGk')">Why Subscribe</button>
+        <button onclick="changeVideo('9L8d_gwc7YQ')">Creating Data on MS Excel</button>
+        
         <script>
             function changeVideo(videoId) {
                 document.getElementById('youtube-video').src = "https://www.youtube.com/embed/" + videoId;
             }
         </script>
+        
         <h2>📬 Get In Touch</h2>
         <p>
             <a href="https://www.linkedin.com/in/teboho-xaba-a142b617b/">LinkedIn</a> |
@@ -76,3 +108,4 @@
     </div>
 </body>
 </html>
+
