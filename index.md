@@ -3,14 +3,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teboho Xaba - Python Developer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(to bottom, #1b3c73, #28a745);
+            background: linear-gradient(to bottom, #1b3c73, #218838);
             color: white;
-            font-family: Arial, sans-serif;
+            font-family: 'Poppins', sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
+        }
+        .navbar {
+            display: flex;
+            justify-content: center;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.7);
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-weight: 600;
+        }
+        .navbar a:hover {
+            color: #90ee90;
         }
         .header-container {
             display: flex;
@@ -31,11 +47,24 @@
             text-align: left;
         }
         .content {
-            max-width: 800px;
+            max-width: 900px;
             margin: 20px auto;
-            background: rgba(0, 0, 0, 0.7);
-            padding: 20px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 30px;
+            border-radius: 12px;
+        }
+        .projects {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        .project-card {
+            background: #2a4d69;
+            padding: 15px;
             border-radius: 10px;
+            width: 250px;
+            text-align: center;
         }
         a {
             color: #90ee90;
@@ -63,6 +92,7 @@
             margin: 5px;
             cursor: pointer;
             border-radius: 5px;
+            font-size: 16px;
         }
         button:hover {
             background-color: #1b3c73;
@@ -82,6 +112,12 @@
     </style>
 </head>
 <body>
+    <div class="navbar">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#youtube">YouTube</a>
+        <a href="#contact">Contact</a>
+    </div>
     <div class="header-container">
         <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
         <div class="header-text">
@@ -89,32 +125,29 @@
             <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
         </div>
     </div>
-    <div class="content">
+    <div class="content" id="about">
         <h2>About Me</h2>
         <p>👋 Hi there! I'm <strong>Teboho Xaba</strong>, a Python developer passionate about <strong>data analytics, automation, and machine learning</strong>.</p>
         <p>With a background in <strong>Logistics and Supply Chain Management</strong>, specializing in <strong>Road Transport</strong>, I strive to leverage <strong>technology for efficiency and innovation</strong>.</p>
         <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
-        
+    </div>
+    <div class="content" id="projects">
         <h2>🚀 Featured Projects</h2>
-        <ul>
-            <li><a href="https://zxfleet.co.za">Z X Fleet</a> - 3P - Road Freight Logistics Partner site</li>
-            <li><a href="https://gcswarehouse.co.za">GCS Warehouse</a> - Smart Home Improvements E-Commerce site</li>
-            <li><a href="#">Dear Diary</a> - Personal journal & AI insights App (*Coming Soon!*)</li>
-        </ul>
-        
+        <div class="projects">
+            <div class="project-card"><a href="https://zxfleet.co.za">Z X Fleet</a><br>3P - Road Freight Logistics Partner site</div>
+            <div class="project-card"><a href="https://gcswarehouse.co.za">GCS Warehouse</a><br>Smart Home Improvements E-Commerce site</div>
+            <div class="project-card"><a href="#">Dear Diary</a><br>Personal journal & AI insights App (*Coming Soon!*)</div>
+        </div>
+    </div>
+    <div class="content" id="youtube">
         <h2>🎥 My YouTube Channel: The Way to Transform</h2>
         <div class="video-container">
             <iframe id="youtube-video" src="https://www.youtube.com/embed/LWBLDtV5YGk" frameborder="0" allowfullscreen></iframe>
         </div>
         <button onclick="changeVideo('LWBLDtV5YGk')">Why Subscribe</button>
         <button onclick="changeVideo('9L8d_gwc7YQ')">Creating Data on MS Excel</button>
-        
-        <script>
-            function changeVideo(videoId) {
-                document.getElementById('youtube-video').src = "https://www.youtube.com/embed/" + videoId;
-            }
-        </script>
-        
+    </div>
+    <div class="content" id="contact">
         <h2>📬 Get In Touch</h2>
         <p>
             <a href="https://www.linkedin.com/in/teboho-xaba-a142b617b/">LinkedIn</a> |
@@ -122,7 +155,11 @@
             <a href="https://www.youtube.com/@Real_Nonkosi">YouTube</a> |
             <a href="mailto:teboho.xaba@zxfleet.co.za">Email</a>
         </p>
-        <p>⭐ <em>Thanks for visiting! Feel free to check out my repositories and projects!</em></p>
     </div>
+    <script>
+        function changeVideo(videoId) {
+            document.getElementById('youtube-video').src = "https://www.youtube.com/embed/" + videoId;
+        }
+    </script>
 </body>
 </html>
