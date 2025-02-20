@@ -12,12 +12,33 @@
             text-align: center;
             margin: 0;
             padding: 0;
+            animation: fadeIn 1.5s ease-in;
+            overflow-x: hidden;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .background-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://source.unsplash.com/random/1920x1080?technology') no-repeat center center/cover;
+            opacity: 0.3;
+            z-index: -1;
         }
         .navbar {
             display: flex;
             justify-content: center;
             padding: 15px;
             background: rgba(0, 0, 0, 0.7);
+            animation: slideDown 1s ease-in-out;
+        }
+        @keyframes slideDown {
+            from { transform: translateY(-50px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
         }
         .navbar a {
             color: white;
@@ -34,6 +55,7 @@
             justify-content: center;
             flex-wrap: wrap;
             padding: 20px;
+            animation: fadeIn 2s ease-in;
         }
         .profile-img {
             width: 150px;
@@ -42,6 +64,11 @@
             border: 3px solid white;
             object-fit: cover;
             margin-right: 20px;
+            animation: zoomIn 1.5s ease-in-out;
+        }
+        @keyframes zoomIn {
+            from { transform: scale(0.5); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
         }
         .header-text {
             text-align: left;
@@ -52,6 +79,7 @@
             background: rgba(0, 0, 0, 0.8);
             padding: 30px;
             border-radius: 12px;
+            animation: fadeIn 1.5s ease-in;
         }
         .projects {
             display: flex;
@@ -65,6 +93,13 @@
             border-radius: 10px;
             width: 250px;
             text-align: center;
+            transform: scale(0.8);
+            opacity: 0;
+            animation: scaleUp 1s ease-in-out forwards;
+        }
+        @keyframes scaleUp {
+            from { transform: scale(0.8); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
         }
         a {
             color: #90ee90;
@@ -112,6 +147,7 @@
     </style>
 </head>
 <body>
+    <div class="background-animation"></div>
     <div class="navbar">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
