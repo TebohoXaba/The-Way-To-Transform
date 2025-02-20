@@ -35,6 +35,10 @@
             padding: 15px;
             background: rgba(0, 0, 0, 0.7);
             animation: slideDown 1s ease-in-out;
+            position: sticky;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
         }
         @keyframes slideDown {
             from { transform: translateY(-50px); opacity: 0; }
@@ -45,6 +49,7 @@
             text-decoration: none;
             padding: 10px 20px;
             font-weight: 600;
+            cursor: pointer;
         }
         .navbar a:hover {
             color: #90ee90;
@@ -145,14 +150,19 @@
             }
         }
     </style>
+    <script>
+        function scrollToSection(id) {
+            document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
 </head>
 <body>
     <div class="background-animation"></div>
     <div class="navbar">
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#youtube">YouTube</a>
-        <a href="#contact">Contact</a>
+        <a onclick="scrollToSection('about')">About</a>
+        <a onclick="scrollToSection('projects')">Projects</a>
+        <a onclick="scrollToSection('youtube')">YouTube</a>
+        <a onclick="scrollToSection('contact')">Contact</a>
     </div>
     <div class="header-container">
         <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
