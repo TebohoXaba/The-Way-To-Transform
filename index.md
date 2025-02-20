@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,10 +13,23 @@
             margin: 0;
             padding: 0;
         }
-        .header {
-            background: url('https://raw.githubusercontent.com/TebohoXaba/My-Profile/blob/main/.github/Theme.webp') no-repeat center center;
-            background-size: cover;
-            padding: 80px 20px;
+        .header-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid white;
+            object-fit: cover;
+            margin-right: 20px;
+        }
+        .header-text {
+            text-align: left;
         }
         .content {
             max-width: 800px;
@@ -23,14 +37,6 @@
             background: rgba(0, 0, 0, 0.7);
             padding: 20px;
             border-radius: 10px;
-        }
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin-top: 20px;
-            border: 3px solid white;
-            object-fit: cover;
         }
         a {
             color: #90ee90;
@@ -62,13 +68,27 @@
         button:hover {
             background-color: #1b3c73;
         }
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+            }
+            .profile-img {
+                margin: 0 auto 10px;
+            }
+            .header-text {
+                text-align: center;
+            }
+        }
     </style>
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
-    <div class="header">
-        <h1>🚀 Teboho Xaba - The Value Chain Programmer</h1>
-        <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
+    <div class="header-container">
+        <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
+        <div class="header-text">
+            <h1>🚀 Teboho Xaba - The Value Chain Programmer</h1>
+            <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
+        </div>
     </div>
     <div class="content">
         <h2>About Me</h2>
@@ -107,4 +127,3 @@
     </div>
 </body>
 </html>
-
