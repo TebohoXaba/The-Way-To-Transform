@@ -177,5 +177,19 @@
         <p>With a background in <strong>Logistics and Supply Chain Management</strong>, specializing in <strong>Road Transport</strong>, I strive to leverage <strong>technology for efficiency and innovation</strong>.</p>
         <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
     </div>
+    <div class="content" id="projects">
+        <h2>🚀 Featured Projects</h2>
+        <ul>
+            <li><a href="#">Z X Fleet</a> - Road Freight Logistics Partner site</li>
+            <li><a href="#">GCS Warehouse</a> - Smart Home Improvements E-Commerce site</li>
+            <li><a href="#">Dear Diary</a> - Personal journal & AI insights App (*Coming Soon!*)</li>
+        </ul>
+    </div>
+    <div class="content" id="youtube">
+        <h2>🎥 My YouTube Channel</h2>
+    </div>
+    <div class="content" id="contact">
+        <h2>📬 Get In Touch</h2>
+    </div>
 </body>
 </html>
