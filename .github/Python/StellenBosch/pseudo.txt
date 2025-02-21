@@ -1,0 +1,31 @@
+Create empty Numbers List
+  request user input for possitive number
+    if user enters 0
+      determine largest numbers
+      print largest numbers
+       
+	 else append the list and exit loop (If 0 is not entered)
+	   
+request user input
+    input = first_name
+    print first_name + "hello,world"
+
+read arbitary number of integers
+    generate a random integers
+    create empty integers list
+        request user input
+	    store user input in list created
+	Calculate sum() of list (integers) 
+	and / divide by the number of items in the list to get the avarage
+Print the arithmetic average 
+
+read gorcery list (Grocery_List = [Products]
+fetch grocery the grocery list with the products already bought (Bought_Groceries = [Bought Products]
+    return products not bought
+	    Lookup which products are listed in the grocery list which are not included in the list of products already bought
+print variable products A to Z (print every product not included in the second list)
+
+read X and Y
+    calculate S=X+Y, A=S/2, P=X*Y
+    write S,A,P
+exit>
