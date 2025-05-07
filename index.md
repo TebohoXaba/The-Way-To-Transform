@@ -168,7 +168,7 @@
         <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
     </div>
     <div class="content" id="projects">
-        <h2>🚀 Featured Projects</h2>
+        <h2>🚀 Hall of Fame: Portfolio</h2>
         <div class="projects">
             <div class="project-card"><a href="https://zxfleet.co.za">Z X Fleet</a><br>3P - Road Freight Logistics Partner site</div>
             <div class="project-card"><a href="https://gcswarehouse.co.za">GCS Warehouse</a><br>Smart Home Improvements E-Commerce site</div>
