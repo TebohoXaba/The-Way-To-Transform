@@ -186,6 +186,7 @@
             <div class="project-card"><a href="https://zxfleet.co.za">Z X Fleet</a><br>3P - Road Freight Logistics Partner site</div>
             <div class="project-card"><a href="https://gcswarehouse.co.za">GCS Warehouse</a><br>Smart Home Improvements E-Commerce site</div>
             <div class="project-card"><a href="https://www.hyperiondev.com/portfolio/TX24110016723/">Data Science Education</a><br>Portfolio of Evidence</div>
+            <div class="project-card"><a href="">Dear Diary</a><br>Coming Soon...</div>
         </div>
     </div>
     <div class="content" id="youtube">
