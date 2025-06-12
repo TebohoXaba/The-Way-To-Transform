@@ -15,7 +15,6 @@
             animation: fadeIn 1.5s ease-in;
             overflow-x: hidden;
         }
-
         }
         @keyframes fadeIn {
             from { opacity: 0; }
@@ -76,12 +75,13 @@
             text-align: left;
         }
         .content {
-            max-width: 900px;
-            margin: 20px auto;
-            background: rgba(0, 0, 0, 0.8);
+            background: rgba(30, 30, 60, 0.85);
+            color: #f2f2f2;
+            box-shadow: 0 0 12px rgba(255, 0, 255, 0.15);
             padding: 30px;
             border-radius: 12px;
-            animation: fadeIn 1.5s ease-in;
+            margin: 20px auto;
+            max-width: 900px;
         }
         .projects {
             display: flex;
@@ -90,14 +90,10 @@
             flex-wrap: wrap;
         }
         .project-card {
-            background: #2a4d69;
-            padding: 15px;
-            border-radius: 10px;
-            width: 250px;
-            text-align: center;
-            transform: scale(0.8);
-            opacity: 0;
-            animation: scaleUp 1s ease-in-out forwards;
+            background: rgba(22, 27, 49, 0.95);
+            color: #ccefff;
+            box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.05);
         }
         @keyframes scaleUp {
             from { transform: scale(0.8); opacity: 0; }
@@ -122,17 +118,21 @@
             border-radius: 10px;
         }
         button {
-            background-color: #28a745;
-            color: white;
+            background-color: #00ffc8;
+            color: #0a0f1a;
             border: none;
             padding: 10px 20px;
             margin: 5px;
             cursor: pointer;
             border-radius: 5px;
             font-size: 16px;
+            box-shadow: 0 0 10px rgba(0, 255, 200, 0.6);
+            transition: all 0.3s ease;
         }
         button:hover {
-            background-color: #1b3c73;
+            background-color: #ff00c8;
+            color: white;
+            box-shadow: 0 0 20px rgba(255, 0, 200, 0.6);
         }
         @media (max-width: 768px) {
             .header-container {
