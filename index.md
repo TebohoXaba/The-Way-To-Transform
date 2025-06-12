@@ -6,7 +6,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(to bottom, #8B0000, #800080);
+            background: linear-gradient(to bottom, #7b1e3b, #4b0082);
             color: white;
             font-family: 'Poppins', sans-serif;
             text-align: center;
