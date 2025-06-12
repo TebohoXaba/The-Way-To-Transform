@@ -6,14 +6,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(to bottom, #a0002d, #6a0dad);
-            color: white;
+            background: linear-gradient(to bottom, #0a0f1a, #23022e);
+            color: #e0e0f8;
             font-family: 'Poppins', sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
             animation: fadeIn 1.5s ease-in;
             overflow-x: hidden;
+        }
+
         }
         @keyframes fadeIn {
             from { opacity: 0; }
